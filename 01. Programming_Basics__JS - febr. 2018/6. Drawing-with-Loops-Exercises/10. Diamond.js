@@ -24,7 +24,6 @@ function test([n]) {
         console.log('-'.repeat(dashes - row) + '*' + midlDash + '*' +
             '-'.repeat(dashes - row));
 
-
         midlDash += '--';
     }
 
